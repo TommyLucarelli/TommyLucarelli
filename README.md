@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Tommaso an EIT Digital Data Science MSc student at Politecnico di Milano 🇮🇹 and KTH Royal Institute of Technology in Stockholm 🇸🇪.
+
+📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/tommaso-lucarelli-ba4483177/) 🧑‍💼
+  - [e-mail](mailto:tommy.lucarelli@gmail.com) 📩
+  
